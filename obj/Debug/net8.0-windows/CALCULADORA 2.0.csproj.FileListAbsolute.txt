@@ -1,0 +1,25 @@
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\bin\Debug\net8.0-windows\CALCULADORA 2.0.exe
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\bin\Debug\net8.0-windows\CALCULADORA 2.0.deps.json
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\bin\Debug\net8.0-windows\CALCULADORA 2.0.runtimeconfig.json
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\bin\Debug\net8.0-windows\CALCULADORA 2.0.dll
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\bin\Debug\net8.0-windows\CALCULADORA 2.0.pdb
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\CALCULADORA_2._0.Form1.resources
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\CALCULADORA 2.0.csproj.GenerateResource.cache
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\CALCULADORA 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\CALCULADORA 2.0.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\CALCULADORA 2.0.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\CALCULADORA 2.0.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\CALCULADORA 2.0.dll
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\refint\CALCULADORA 2.0.dll
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\CALCULADORA 2.0.pdb
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\CALCULADORA 2.0.genruntimeconfig.cache
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\CALCULADORA 2.0\obj\Debug\net8.0-windows\ref\CALCULADORA 2.0.dll
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0 correto\obj\Debug\net8.0-windows\CALCULADORA_2._0.Form1.resources
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0 correto\obj\Debug\net8.0-windows\CALCULADORA 2.0.csproj.GenerateResource.cache
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0 correto\obj\Debug\net8.0-windows\CALCULADORA 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0 correto\obj\Debug\net8.0-windows\CALCULADORA 2.0.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0 correto\obj\Debug\net8.0-windows\CALCULADORA 2.0.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0 correto\obj\Debug\net8.0-windows\CALCULADORA 2.0.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0 correto\obj\Debug\net8.0-windows\CALCULADORA 2.0.dll
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0 correto\obj\Debug\net8.0-windows\refint\CALCULADORA 2.0.dll
+C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0 correto\obj\Debug\net8.0-windows\CALCULADORA 2.0.pdb

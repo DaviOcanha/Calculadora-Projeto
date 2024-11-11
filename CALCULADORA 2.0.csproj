@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>CALCULADORA_2._0</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\davio\OneDrive\Área de Trabalho\CALCULADORA 2.0\Calculadora.cs" Link="Calculadora.cs" />
+    <Compile Include="C:\Users\davio\OneDrive\Área de Trabalho\calculadora\Calculadora.cs" Link="Calculadora.cs" />
+  </ItemGroup>
+
+</Project>
